@@ -6,13 +6,13 @@ Minha paixão é desenvolver soluções eficientes e estou sempre em busca de no
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[SEU_USUÁRIO]&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[nihh406]&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUÁRIO]&layout=compact&theme=dark&locale=pt-br" alt="Top Linguagens" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[nihh406O]&layout=compact&theme=dark&locale=pt-br" alt="Top Linguagens" />
 </div>
 
 ---
