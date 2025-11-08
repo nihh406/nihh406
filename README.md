@@ -6,13 +6,13 @@ Minha paixão é desenvolver soluções eficientes e estou sempre em busca de no
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[nihh406]&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nihh406&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[nihh406O]&layout=compact&theme=dark&locale=pt-br" alt="Top Linguagens" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihh406&layout=compact&theme=dark&locale=pt-br" alt="Top Linguagens" />
 </div>
 
 ---
@@ -43,13 +43,13 @@ E estou ativamente aprendendo:
 Você pode me encontrar e falar comigo nestas plataformas:
 
 <div align="left">
-  <a href="mailto:[nicolefernandes406@gmail.com]" target="_blank">
+  <a href="mailto:nicolefernandes406@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
   </a>
-  <a href="https://www.linkedin.com/in/[https://www.linkedin.com/in/nicole-fernandes-2a573a381/]" target="_blank">
+  <a href="https://www.linkedin.com/in/nicole-fernandes-2a573a381/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-  <a href="https://instagram.com/[https://www.instagram.com/nih_silvanf?igsh=MXdrYWZnM2t5cDU1Mg==]" target="_blank">
+  <a href="https://www.instagram.com/nih_silvanf?igsh=MXdrYWZnM2t5cDU1Mg==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
   </a>
   
@@ -58,5 +58,7 @@ Você pode me encontrar e falar comigo nestas plataformas:
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/images/cat-github.svg" alt="Mascote do GitHub - Catppuccin Theme" width="50" height="50">
+  <img src="https://github.com/catppuccin/catppuccin/blob/main/assets/logos/exports/macchiato_squircle.png" alt="Mascote do GitHub - Catppuccin Theme" width="50" height="50">
 </div>
+
+<!-- Gabriel Vilela esteve aqui -->
